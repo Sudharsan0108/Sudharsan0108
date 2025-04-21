@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sudharsan
 
-🎓 Currently pursuing **M.Sc. in Computer Science**  
+🎓 M.Sc. in Computer Science
 📍 Based in Tamil Nadu, India  
 🍻 Fun fact: I'm a proud boozer – always keeping the spirits high!
 
